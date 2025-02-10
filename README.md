@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abhishekh912
-- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning python
 
 <!---
